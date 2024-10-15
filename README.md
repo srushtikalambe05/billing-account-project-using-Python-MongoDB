@@ -1,0 +1,1 @@
+This project I did in Msc BDA demonstrates how to use MongoDB in a Python environment. The script establishes a connection with a MongoDB database and performs basic operations such as data insertion, retrieval, and more.
